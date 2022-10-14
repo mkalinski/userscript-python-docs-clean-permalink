@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        python-docs-clean-permalink
 // @namespace   https://github.com/mkalinski
-// @version     1.0
+// @version     1.0.1
 // @description Copy a clean permalink on click on header anchor for python documentation
-// @match       https://docs.python.org/*/library/*
+// @match       https://docs.python.org/*
 // @grant       GM_notification
 // @grant       GM_setClipboard
 // @run-at      document-end
